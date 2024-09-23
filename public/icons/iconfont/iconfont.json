@@ -1,0 +1,65 @@
+{
+  "id": "3939353",
+  "name": "web-debug",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "34201191",
+      "name": "箭头左  ",
+      "font_class": "jiantouzuo",
+      "unicode": "e857",
+      "unicode_decimal": 59479
+    },
+    {
+      "icon_id": "34201192",
+      "name": "箭头右  ",
+      "font_class": "jiantouyou",
+      "unicode": "e856",
+      "unicode_decimal": 59478
+    },
+    {
+      "icon_id": "34201198",
+      "name": "箭头左下  ",
+      "font_class": "jiantouzuoxia",
+      "unicode": "e858",
+      "unicode_decimal": 59480
+    },
+    {
+      "icon_id": "34201199",
+      "name": "箭头右上  ",
+      "font_class": "jiantouyoushang",
+      "unicode": "e859",
+      "unicode_decimal": 59481
+    },
+    {
+      "icon_id": "34201203",
+      "name": "箭头左上  ",
+      "font_class": "jiantouzuoshang",
+      "unicode": "e85a",
+      "unicode_decimal": 59482
+    },
+    {
+      "icon_id": "34201213",
+      "name": "箭头下  ",
+      "font_class": "jiantouxia",
+      "unicode": "e85b",
+      "unicode_decimal": 59483
+    },
+    {
+      "icon_id": "34201219",
+      "name": "箭头右下  ",
+      "font_class": "jiantouyouxia",
+      "unicode": "e85c",
+      "unicode_decimal": 59484
+    },
+    {
+      "icon_id": "34201244",
+      "name": "箭头上  ",
+      "font_class": "jiantoushang",
+      "unicode": "e85d",
+      "unicode_decimal": 59485
+    }
+  ]
+}
